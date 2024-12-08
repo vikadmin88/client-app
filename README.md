@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/vikadmin88/client-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/vikadmin88/client-app/actions/workflows/node.js.yml)
+
 # Description
 This project is the React frontend part of an educational  project, which demonstrates connection to the backend for obtaining data and performing CRUD operations on it.
 Before running the project ensure that the backend is running.
